@@ -35,7 +35,7 @@ export default function Hero() {
             <Mail className="h-5 w-5" />
           </a>
           <a
-            href="tel:+66812345678"
+            href="tel:+66617047791"
             className="p-2 rounded-lg bg-secondary hover:bg-secondary/80 text-muted-foreground hover:text-foreground transition-colors"
             aria-label="Phone"
           >
@@ -44,9 +44,9 @@ export default function Hero() {
         </div>
 
         {/* CTA Button */}
-        <div className="mt-10">
+       <div className="mt-10">
           <a
-            href="/CV Apinya Kauenghan.pdf"
+            href="/cv apinya.pdf"
             download
             className="inline-flex items-center gap-2 rounded-lg bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground shadow-lg shadow-primary/20 hover:opacity-90 transition-opacity"
           >
